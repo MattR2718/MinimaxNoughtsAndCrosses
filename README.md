@@ -1,3 +1,3 @@
 # MinimaxNoughtsAndCrosses
 
-![Screenshot](MinimaxNoughtsAndCrosses/img.png)
+![Screenshot](MinimaxNoughtsAndCrosses/img.PNG)
