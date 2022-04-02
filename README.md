@@ -1,1 +1,3 @@
 # MinimaxNoughtsAndCrosses
+
+![](MinimaxNoughtsAndCrosses/img.png)
